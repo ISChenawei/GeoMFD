@@ -16,7 +16,7 @@
 </div>
   <p align="center">
     <img src="access/2.png" alt="Description of the image" style="width:100%;">
-    <img src="access/3.svg" alt="Description of the image" style="width:100%;">
+    <img src="access/3.png" alt="Description of the image" style="width:100%;">
   <p align="center">
 
 This repository is the official implementation of the paper "GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation". 
@@ -42,7 +42,7 @@ The current version of the repository can cover the experiments reported in the 
 - [x] Release the **pretrained weights** of GeoMFD
 
 ## <a id="dataset-access"></a> 💾 Dataset Access
-Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark), [DenseUAV](https://github.com/Dmmm1997/DenseUAV), [IR-VL328](https://github.com/liutao23/ODGNNLoc) 
+Please prepare [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark), [DenseUAV](https://github.com/Dmmm1997/DenseUAV), [IR-VL328](https://github.com/liutao23/ODGNNLoc), [CVGL-RGBT](https://github.com/cver6/CDM-Net)  
 ## <a id="train-and-test"></a> 🚀 Train and Test
 
 ```
@@ -72,4 +72,4 @@ This project is licensed under the [Apache 2.0 license](LICENSE).
 }
 ```
 ## <a id="acknowledgments"></a> 🙏 Acknowledgments
-This repository is built using the [DAC](https://github.com/SummerpanKing/DAC), [Meta-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V2), [E-SpikeFormer](https://github.com/BICLab/Spike-Driven-Transformer-V3) repositories. Thanks for their wonderful work.
+This repository is built using the [University-1652](https://github.com/layumi/University1652-Baseline), [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark), [DenseUAV](https://github.com/Dmmm1997/DenseUAV), [IR-VL328](https://github.com/liutao23/ODGNNLoc), [CVGL-RGBT](https://github.com/cver6/CDM-Net) repositories. Thanks for their wonderful work.
