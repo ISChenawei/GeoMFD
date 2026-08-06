@@ -1,4 +1,4 @@
-## GeoMFD 2025 [[paper](https://arxiv.org/abs/2607.25788)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
+## GeoMFD 2026 [[paper](https://arxiv.org/abs/2607.25788)][[model](#pre-trained-checkpoints)] [[Cite](#Citation)]
 <p align="center">
   <p align="left">
     <img src="access/1.png" alt="Description of the image" style="width:80%;">
