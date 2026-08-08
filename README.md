@@ -15,8 +15,9 @@
   <sup>6</sup>Peng Cheng Laboratory
 </div>
   <p align="center">
-    <img src="access/2.png" alt="Description of the image" style="width:100%;">
-    <img src="access/3.png" alt="Description of the image" style="width:100%;">
+    <img src="access/4_00.png" alt="Description of the image" style="width:100%;">
+    <img src="access/1_00.png" alt="Description of the image" style="width:100%;">
+    <img src="access/3_00.png" alt="Description of the image" style="width:100%;">
   <p align="center">
 
 This repository is the official implementation of the paper "GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation". 
