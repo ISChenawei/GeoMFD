@@ -87,7 +87,6 @@ The implementation covers experiments on
 ## <a id="highlights"></a>✨ Highlights
 
 - Introduces **Continual Drone-View Geo-Localization (C-DVGL)**, where a single model is sequentially updated across changing environments.
-- Identifies continual DVGL forgetting as distortion of **cross-view retrieval geometry**, particularly the relative margins between positive pairs and hard negatives.
 - Proposes **CBS** to establish a stable initial embedding space before continual adaptation.
 - Introduces a **Geometry-Aware Adapter** for controlled representation updates in normalized embedding space.
 - Introduces **Margin-Field Distillation** to preserve positive-versus-hard-negative similarity margins from the previous model without retaining historical training data.
