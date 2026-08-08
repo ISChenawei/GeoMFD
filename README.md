@@ -38,8 +38,6 @@ This repository provides the official implementation of **GeoMFD: Continual Dron
 
 GeoMFD studies **Continual Drone-View Geo-Localization (C-DVGL)**, where a single retrieval model is sequentially updated as new environments arrive. Unlike the conventional closed-world DVGL setting, C-DVGL requires the model to adapt to new environmental distributions while preserving the cross-view retrieval geometry learned from previously seen environments.
 
-GeoMFD addresses this stability-plasticity challenge through three complementary components: **Cold-start Bootstrapping (CBS)**, a **Geometry-Aware Adapter (Geo-Adapter)**, and **Margin-Field Distillation (MFD)**. Together, they enable continual adaptation while reducing distortion of previously learned positive-versus-hard-negative relationships in the embedding space.
-
 The implementation covers experiments on
 [University-1652](https://github.com/layumi/University1652-Baseline),
 [SUES-200](https://github.com/Reza-Zhu/SUES-200-Benchmark),
