@@ -1,7 +1,7 @@
 ## GeoMFD 2026 [[Paper](https://arxiv.org/abs/2607.25788)] [[Models](#pre-trained-checkpoints)] [[Cite](#citation)]
 
 <p align="left">
-  <img src="access/1.png" alt="GeoMFD overview" style="width:80%;">
+  <img src="access/1.svg"style="width:80%;">
 </p>
 
 <h1 align="center">GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation</h1>
