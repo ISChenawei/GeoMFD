@@ -54,7 +54,7 @@ The implementation covers experiments on
 ## <a id="method-overview"></a>🧩 Method Overview
 
 <p align="center">
-  <img src="access/1_00.png" alt="GeoMFD framework" style="width:100%;">
+  <img src="access/1_00.png" alt="GeoMFD framework" style="width:90%;">
 </p>
 
 ## <a id="visualization"></a>🔍 Qualitative Visualization
